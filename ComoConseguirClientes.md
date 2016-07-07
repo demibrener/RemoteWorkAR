@@ -6,6 +6,12 @@ Lo más importante para empezar a trabajar remoto es conseguir a los clientes! E
 
 Cada modalidad tiene sus ventajas y desventajas, y diferentes plataformas donde conseguir clientes o empresas para las que trabajar.
 
+- [Dónde encontrar clientes para freelance](#donde-encontrar-clientes-para-freelance)
+- [Dónde encontrar puestos de trabajo remoto](#donde-encontrar-puestos-de-trabajo-remoto)
+- [Cómo mejorar tu presencia online](#como-mejorar-tu-presencia-online)
+- [Cuánto cobrar](#cuanto-cobrar)
+- [Cómo evaluar a tu cliente](#como-evaluar-a-tu-cliente)
+
 ## Dónde encontrar clientes para freelance
 Dentro de las plataformas para freelancers, las más importantes son:
 - [Toptal](https://www.toptal.com/): clientes de todos lados del mundo. Trabajos alrededor de $30/hora.
@@ -23,7 +29,7 @@ Para encontrar trabajos como empleados remotos, los sitios de búsqueda más imp
 - [Remote Data Science](http://www.remotedatascience.com/): sitio especializado en trabajos remotos de data science.
 - [Dribble Jobs](https://dribbble.com/jobs?location=Anywhere): trabajos remotos para diseñadores.
 
-## Mejorar tu presencia online
+## Cómo mejorar tu presencia online
 Para el caso de los freelancers, la reputación en las plataformas de búsqueda de trabajo es lo más importante para que los clientes evalúen su contratación. Sin embargo, para conseguir un trabajo de empleado remoto, la única forma que tienen las empresas para hacer una primera evaluación es a través de tu presencia online. Por eso, es importante ser consciente de todos tus perfiles online y mejorarlos para dar una buena impresión.
 
 #### Perfil de Linkedin
