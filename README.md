@@ -1,4 +1,4 @@
-# Wiki de trabajo remoto en Argentina
+# Wiki de Trabajo Remoto en Argentina
 
 Todos queremos trabajar en cosas interesantes, manejar nuestros horarios y ganar más plata, pero a veces trabajar remoto para sitios de freelance, o como empleados para empresas de afuera puede ser complicado. Esta wiki tiene el objetivo de ser una guía para compartir consejos y best practices de trabajar remoto. 
 
