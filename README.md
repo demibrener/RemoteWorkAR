@@ -4,10 +4,10 @@ Todos queremos trabajar en cosas interesantes, manejar nuestros horarios y ganar
 
 Explorá los archivos con las categorías que más te interesen. Para contribuir, hacé click en el archivo que quieras editar y después en el icono del lápiz. Hace tus cambios y apretá en “Propose file change” para enviar tu pull request.
 
-## Tabla de Contenidos
+## Índice
 - [Cómo conseguir clientes](ComoConseguirClientes.md)
-- [Cómo cobrar]
-- [Cómo facturar]
-- [Invoices, contratos y formularios]
-- [Lugares desde dónde trabajar]
-- [Comunidad]
+- [Cómo cobrar](ComoCobrar.md)
+- [Cómo facturar](ComoFacturar.md)
+- [Invoices, contratos y formularios](InvoicesContratosYFormularios.md)
+- [Lugares desde dónde trabajar](LugaresDesdeDondeTrabajar.md)
+- [Comunidad](Comunidad.md)
