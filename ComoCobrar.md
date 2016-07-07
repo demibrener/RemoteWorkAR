@@ -2,7 +2,13 @@
 
 Una vez que conseguimos el cliente para el que trabajar, es importante contar con un método de cobro que nos permita recibir el pago por nuestro trabajo. Existen diferentes métodos de cobro, cada uno con sus respectivos beneficios y costos.
 
-## Cuenta en US
+- Cuenta en Estados Unidos
+- Bitcoin
+- Payoneer
+- Transferencia bancaria a Argentina
+- Cash
+
+## Cuenta en Estados Unidos
 Abrir una cuenta en Estados Unidos de forma presencial es fácil. No es necesario ser ciudadano de Estados Unidos ni tener un Social Security Number. Tu pasaporte, firmar unos formularios y hacer un pequeño depósito inicial son suficientes. Sin embargo, abrirla de forma remota desde Argentina es complicado ya que al banco le es dificil de verificar tu identificar.
 
 Bancos recomendados para abrir una cuenta son <a href=https://www.chase.com/>Chase</a> y <a href=https://www.wellsfargo.com/>Wells Fargo</a>.
