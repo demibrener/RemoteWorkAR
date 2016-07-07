@@ -6,11 +6,11 @@ Lo más importante para empezar a trabajar remoto es conseguir a los clientes! E
 
 Cada modalidad tiene sus ventajas y desventajas, y diferentes plataformas donde conseguir clientes o empresas para las que trabajar.
 
-- [Dónde encontrar clientes para freelance](#donde-encontrar-clientes-para-freelance)
-- [Dónde encontrar puestos de trabajo remoto](#donde-encontrar-puestos-de-trabajo-remoto)
-- [Cómo mejorar tu presencia online](#como-mejorar-tu-presencia-online)
-- [Cuánto cobrar](#cuanto-cobrar)
-- [Cómo evaluar a tu cliente](#como-evaluar-a-tu-cliente)
+- [Dónde encontrar clientes para freelance](#dónde-encontrar-clientes-para-freelance)
+- [Dónde encontrar puestos de trabajo remoto](#dónde-encontrar-puestos-de-trabajo-remoto)
+- [Cómo mejorar tu presencia online](#cómo-mejorar-tu-presencia-online)
+- [Cuánto cobrar](#cuánto-cobrar)
+- [Cómo evaluar a tu cliente](#cómo-evaluar-a-tu-cliente)
 
 ## Dónde encontrar clientes para freelance
 Dentro de las plataformas para freelancers, las más importantes son:
