@@ -2,7 +2,7 @@
 
 Una vez que conseguimos el cliente para el que trabajar, es importante contar con un método de cobro que nos permita recibir el pago por nuestro trabajo. Existen diferentes métodos de cobro, cada uno con sus respectivos beneficios y costos.
 
-- Cuenta en Estados Unidos
+- [Cuenta en Estados Unidos](#cuenta-en-estados-unidos)
 - Bitcoin
 - Payoneer
 - Transferencia bancaria a Argentina
