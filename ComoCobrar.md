@@ -7,10 +7,10 @@ Abrir una cuenta en Estados Unidos de forma presencial es fácil. No es necesari
 
 Bancos recomendados para abrir una cuenta son <a href=https://www.chase.com/>Chase</a> y <a href=https://www.wellsfargo.com/>Wells Fargo</a>.
 
-### Beneficios
+#### Beneficios
 - Cobrar y mantener el dinero en dólares.
 - Al cliente le es fácil y barato hacer una transferencia a una cuenta en US.
-### Contras
+#### Contras
 - Todos los bancos exigen un mínimo de balance en la cuenta para no cobrarte un costo de mantenimiento. El mínimo varía por banco y puede estar entre los US$700 y US$1500.
 - El dinero se encuentra en Estados Unidos y, a menos que se hicieran las correspondientes operaciones contables, este dinero no suele estar blanqueado.
 
@@ -21,10 +21,10 @@ Para recibir bitcoins, es necesario tener una billetera online a donde el client
 
 Si tu cliente está en Estados Unidos, Canadá, Europa o Singapur, comprar bitoins es muy fácil usando su cuenta de banco. Servicios recomendados son <a href=https://www.coinbase.com/>Coinbase</a> y <a href=https://www.circle.com/>Circle</a>.
 
-### Beneficios:
+#### Beneficios
 - Mandar bitcoins es virtualmente gratis! Es como mandar un mail, no hay intermediarios ni burocracias.
 
-### Contras:
+#### Contras
 - El precio de bitcoin suele tener cierta fluctuación. Si el saldo de dinero se mantiene en bitcoins, tu balance puede fluctuar a medida que fluctúa el precio. Esto se puede evitar si se liquidan los bitcoins por pesos a los pocos días de recibir el pago.
 - Si bien muchas veces el cliente conoce bitcoin y ya lo usó con otros contractors, a veces no sabe cómo comprar ni mandartelos.
 - No existe un marco legal y contable sobre los bitcoins en el país. Es un área gris que muchos contadores desconocen.
@@ -34,22 +34,22 @@ Si tu cliente está en Estados Unidos, Canadá, Europa o Singapur, comprar bitoi
 
 Empresas como  Toptal, Upwork y Fiverr pagan a los freelancers a través de Payoneer.
 
-### Beneficios:
+#### Beneficios
 - Crearte una cuenta es muy fácil y te mandan la tarjeta de débito a tu domicilio, gratis.
 - Te dan un número de cuenta de banco en Estados Unidos o Europa donde cualquiera te puede enviar dinero
 - El saldo de dinero se mantiene en dólares
 
-### Contras:
+#### Contras
 - La única forma de usar el dinero que está en Payoneer es a través de su tarjeta de débito. 
 - Tiene un costo fijo de mantenimiento anual que sólo te cobran si tu balance es positivo.
 
 ## Transferencia bancaria a Argentina
 Podemos pedirle a nuestro cliente que envíe una transferencia internacional a nuestra cuenta de banco en Argentina. Por regulación del Banco Central, toda divisa que ingresa al país debe ser convertida a pesos dentro de los 15 días. Este proceso lo lleva a cabo el sector de Comercio Exterior del banco.
 
-### Beneficios:
+#### Beneficios
 - Llega el dinero en pesos a nuestra cuenta de banco, todo en blanco para poder usarlo en lo que quieras.
 
-### Contras:
+#### Contras
 - Para poder recibir la transferencia, Comercio Exterior te exige que presentes una factura que justifique el cobro. Si bien algunos bancos permiten firmar un formulario por única vez y presentar las facturas de forma online, este proceso suele ser burocrático y durar varios días hasta recibir el dinero en tu cuenta.
 - El banco te cobra una comisión que puede variar entre US$50 y US$150 por recibir la transferencia. También, la conversión a pesos la hacen con un tipo de cambio que suele ser peor al de mercado.
 
