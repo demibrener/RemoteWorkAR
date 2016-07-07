@@ -10,4 +10,4 @@ Todos queremos trabajar en cosas interesantes, manejar nuestros horarios y ganar
 - [Lugares desde dónde trabajar](LugaresDesdeDondeTrabajar.md)
 - [Comunidad](Comunidad.md)
 
-Para contribuir, hacé click en el archivo que quieras editar y después en el icono del lápiz. Hace tus cambios y apretá en “Propose file change” para enviar tu pull request.
+Para contribuir, hacé click en el archivo que quieras editar y después en el icono del lápiz. Hacé tus cambios y apretá en “Propose file change” para enviar tu pull request.
