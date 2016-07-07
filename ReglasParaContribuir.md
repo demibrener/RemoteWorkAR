@@ -1,6 +1,6 @@
 # Reglas para contribuir
 
-Por favor, asegurate de que tus pull requests se adhieran a las siguientes reglas:
+Por favor, asegurate de que tus pull requests sigan las siguientes reglas:
 
 - Si pones un link, asegurate de que funcione y dirija al lugar indicado.
 - Comprobá la ortografía y la gramática.
