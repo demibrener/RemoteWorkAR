@@ -43,6 +43,24 @@ Tener un perfil de Linkedin actualizado, prolijo y con información relevante es
 Para los programadores, las empresas suelen mirar la actividad de tu perfil de Github para evaluar tu conocimiento de ciertas tecnologías y tus habilidades. Algunos consejos son:
 - Contribuir unas pocas horas a algún proyecto open source, de manera de mostrar tus habilidades y compromiso.
 
+#### Perfil de Twitter
+Algunos consejos de cómo usar Twitter para mejorar tus probabilidades de encontrar trabajos remotos: (Algunas están en inglés porque es una adaptación de una guía anterior en ese idioma)
+- **Elegí un buen username.**: corto, que contenga tu nombre, o que sea el mismo que tu GitHub handle.
+- **Métrica clave es # de followers**: Los clientes ven esto como validación por asociación.
+- **Stick to english.**: la forma de maximizar las chances de que tu cliente o empleador entienda lo que escribís.
+- **Show process, not only results.**: Usar twitter para ir contando cosas que uno aprende, no sólo lo que logra, hace que la gen*te quiera seguir para aprender del proceso. 
+- **Be nice.**: No engancharse en peleas por Twitter que invaden el timeline de nuestros seguidores y provocan unfollows.
+- **Link a tu twitter handle en todos tus proyectos.**: Si alguien usa un proyecto tuyo y le gusta, tiene que serle muy fácil empezar a seguirte en Twitter!
+- **Pick your audience.**: Optimizar twitter para lo profesional puede significar no usarlo para comunicarse con amigos y parientes. En general un buen approach es usar Twitter para relacionarnos con gente de un rubro en el que somos expertos.
+- **Follow interesting people in your field.**: Seguir a gente influyente en nuestro rubro e interactuar con ellos. 
+- **Intentar no postear cosas personales o emocionales.**: Para eso está Facebook o las charlas en la vida real :)
+- **Do post about your non-work-related interests like music, art, books, movies, hobbies.**: Genera buenas interacciones con miembros de tu red que comparten los intereses.
+- **Do not retweet.**: Opinable, pero en general son ruido para nuestros seguidores. Casi siempre es mejor hacer un quote al tweet y agregar nuestro comentario personal sobre el asunto. 
+- **Disable retweets from others.**: De nuevo, opinable, pero en general generan mucho ruido en nuestro timeline.
+- **Publish often**: En general nuestro empleador o cliente va a mirar los últimos twits nomás, y si son de hace 4 meses no van a ser muy relevantes. 
+
+
+
 ## Cuánto cobrar
 Decidir cuánto cobrar es un tema complicado. A fin de cuentas, depende de cuánto el cliente esté dispuesto a pagar, y eso depende de la confianza que le generes y de tu experiencia en el tema. Dentro de las plataformas de freelance, los precios por hora suelen variar desde US$10 (para trabajos muy sencillos) hasta US$80 (para muy complejos). Para el caso de contratación remota, los sueldos pueden variar entre los US$1,500 y los US$5,000 por mes.
 
