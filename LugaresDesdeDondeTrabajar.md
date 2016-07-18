@@ -6,3 +6,4 @@ Algunas opciones de coworking en Buenos Aires son:
 - [La Maquinita](http://www.lamaquinita.co/)
 - [Hit Cowork](http://hitcowork.co/)
 - [GoWork](http://www.gowork.com.ar/)
+- [Join Coworking](http://www.joincoworking.com/)
