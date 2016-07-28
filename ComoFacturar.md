@@ -4,6 +4,8 @@ Para la AFIP, trabajar remoto para el exterior se categoriza como Exportación d
 
 Para eso, es necesario darse de alta en la AFIP como contribuyente. Podemos darnos de alta como Monotributistas o como Responsables Inscripto, dependiendo de cuánto facturemos por año.
 
+Para más información, pueden acceder a esta presentación sobre el [tratamiento impositivo para Remote Workers](https://drive.google.com/file/d/0B5N6VFSYRKTzbG1MaTQ2cERjZnM/view?pref=2&pli=1).
+
 ## Monotributo
 El monotributo es un régimen de contribución simplificado que exige poca administración en comparación con otras modalidades. El monotributo se divide en categorías, dependiendo de la cantidad de ingresos brutos que recibamos por año. El pago de impuestos es un monto fijo, cuyo monto está determinado por la categoría a la que se pertenece:
 
