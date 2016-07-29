@@ -51,14 +51,21 @@ Empresas como  Toptal, Upwork y Fiverr pagan a los freelancers a través de Payo
 - Tiene un costo fijo de mantenimiento anual que sólo te cobran si tu balance es positivo.
 
 ## Transferencia bancaria a Argentina
-Podemos pedirle a nuestro cliente que envíe una transferencia internacional a nuestra cuenta de banco en Argentina. Por regulación del Banco Central, toda divisa que ingresa al país debe ser convertida a pesos dentro de los 15 días. Este proceso lo lleva a cabo el sector de Comercio Exterior del banco.
+Podemos pedirle a nuestro cliente que envíe una transferencia internacional a nuestra cuenta de banco en Argentina. Por regulación del Banco Central, toda divisa que ingresa al país debe ser liquidada dentro de los 15 días. A partir de mayo las transferencias se pueden acreditar en dólares presentando un segundo formulario. Este proceso lo lleva a cabo el sector de Comercio Exterior del banco.
 
 ##### Beneficios
 - Llega el dinero en pesos a nuestra cuenta de banco, todo en blanco para poder usarlo en lo que quieras.
 
 ##### Contras
 - Para poder recibir la transferencia, Comercio Exterior te exige que presentes una factura que justifique el cobro. Si bien algunos bancos permiten firmar un formulario por única vez y presentar las facturas de forma online, este proceso suele ser burocrático y durar varios días hasta recibir el dinero en tu cuenta.
-- El banco te cobra una comisión que puede variar entre US$50 y US$150 por recibir la transferencia. También, la conversión a pesos la hacen con un tipo de cambio que suele ser peor al de mercado.
+- El banco te cobra una comisión que puede variar entre US$50 y US$150 por recibir la transferencia.
+
+Comisiones
+
+| Banco  | Comisión|
+| --- | ---|
+| Banco Galicia  | 0.125% (mínimo U$S 100) + IVA  |
+| ICBC  | U$S40 (el cable) U$S40 (por mantenerlo en dólares) + IVA|
 
 ## Cash 
 Existen financieras que reciben una transferencia internacional por vos y te dan el equivalente en pesos o dólares cash. Estos servicios suelen ser muy informales y con costos altos.
