@@ -66,6 +66,7 @@ Comisiones
 | --- | ---|
 | Banco Galicia  | 0.125% (mínimo U$S 100) + IVA  |
 | ICBC  | U$S40 (el cable) U$S40 (por mantenerlo en dólares) + IVA|
+| BBVA  | 0.125% (mínimo U$S 60) + IVA|
 
 ## Cash 
 Existen financieras que reciben una transferencia internacional por vos y te dan el equivalente en pesos o dólares cash. Estos servicios suelen ser muy informales y con costos altos.
