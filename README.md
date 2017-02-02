@@ -11,3 +11,5 @@ Todos queremos trabajar en cosas interesantes, manejar nuestros horarios y ganar
 - [Comunidad](Comunidad.md)
 
 Para contribuir, hacé click en la sección (o archivo) que quieras editar y después en el icono del lápiz. Hacé tus cambios y apretá en “Propose file change” para enviar tu pull request.
+
+>Nota: el contenido de este repositorio es informativo y no debe tomarse como consejo de contabilidad. Recomendamos hablar con un contador antes de tomar decisiones.
